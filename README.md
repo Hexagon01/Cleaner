@@ -4,35 +4,35 @@
 # 임시파일 사용량 표시
 # 진행현황 표시
 
-Cleaner Profile
+# Cleaner Profile
 - 전체 최적화
 - 일반 최적화
 
-Memory
+# Memory
 - Modified
 - WorkingSet
 - Steandby
 - GPU Memory
 - Process
 
-Disk
+# Disk
 - Disk Cleaning
 - CleanMGR
 - Windows.old
 
-Network
+# Network
 - DNS Flush
 - ArpCache
 - NetBiosCache
 - NetworkCache
 - WindockReset
 
-Browser
+# Browser
 - History
 - Download
 - Session
 
-Registry
+# Registry
 - Uninstall
 - AppPath
 - ShellExtension
@@ -40,7 +40,7 @@ Registry
 - StartupApproved
 - MRUEntrie
 
-Temp
+# Temp
 - Windows Temp
 - Account Temp
 - C:\ Root Temp
@@ -50,7 +50,7 @@ Temp
 - DismCleanup
 - UWPCleanup
 
-System
+# System
 - UI Cache
 - CBS Logs
 - EventLog
@@ -66,7 +66,7 @@ System
 - Delivery Optimizatior
 - OfflineFilesCache
 
-Game (단순 .log, .tmp 파일삭제)
+# Game (단순 .log, .tmp 파일삭제)
 - NexonPlug
 - SuddenAttackLog
 - EasyAntiCheat
