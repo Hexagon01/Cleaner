@@ -1,12 +1,12 @@
-파일버전: 1.1.1.0
-제품버전: 1.1.1.0
-
+# Cleaner
 <img width="820" height="520" alt="Screenshot_20261008004423" src="https://github.com/user-attachments/assets/7ce6d7e6-be1d-4845-9771-e510d449ade6" />
 
 # 메모리 사용량 표시
 # 디스크 사용량 표시
 # 임시파일 사용량 표시
 # 진행현황 표시
+파일버전: 1.1.1.0
+제품버전: 1.1.1.0
 
 # Cleaner Profile
 - 전체 최적화
