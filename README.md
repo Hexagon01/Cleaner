@@ -1,7 +1,3 @@
-# Version Infomation
- 파일버전: 1.1.1.0
- 제품버전: 1.1.1.0
-
 # Image
 <img width="820" height="520" alt="Screenshot_20261008004423" src="https://github.com/user-attachments/assets/7ce6d7e6-be1d-4845-9771-e510d449ade6" />
 
