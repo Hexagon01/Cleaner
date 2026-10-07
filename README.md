@@ -27,6 +27,7 @@
 - WindockReset
 
 # Browser
+- Cache
 - History
 - Download
 - Session
