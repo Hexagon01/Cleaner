@@ -1,5 +1,6 @@
 # Image
-<img width="820" height="520" alt="Screenshot_20261008004423" src="https://github.com/user-attachments/assets/7ce6d7e6-be1d-4845-9771-e510d449ade6" />
+<img width="871" height="529" alt="Img" src="https://github.com/user-attachments/assets/1267b657-e235-4680-a457-23b0bae6cd71" />
+
 
 # Cleaner
 - 로그, 임시파일, 브라우저, 레지스트리, 네트워크 등 최적화 하는 프로그램입니다.
